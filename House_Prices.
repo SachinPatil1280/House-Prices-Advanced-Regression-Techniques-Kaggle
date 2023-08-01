@@ -2,20 +2,20 @@
 House Prices: Advanced Regression Techniques
 Sachin patil
 
-Before starting project I read some articles:
+Before starting the project, I read some articles:
 
 https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/
 
-Select Data: Integrate data, de-normalize it into a dataset, collect it together.
-Preprocess Data: Format it, clean it, sample it so you can work with it.
+Select Data: Integrate data, de-normalize it into a dataset, and collect it together.
+Preprocess Data: Format, clean, and sample it so you can work with it.
 Transform Data: Feature Engineer happens here.
-Model Data: Create models, evaluate them and tune them.
+Model Data: Create models, evaluate them, and tune them.
 https://machinelearningmastery.com/why-one-hot-encode-data-in-machine-learning/
 
 6 top factors that influence a home’s value: https://www.inman.com/2017/08/07/6-factors-that-influence-a-homes-value/
 
 https://www.rochesterrealestateblog.com/what-factors-influence-the-sale-price-of-a-home/
-I also took some inspiration and used some techniques of other people, but I did not hard-copied.
+I also took some inspiration and used other people's techniques, but I did not hard-copied.
 
 import pandas as pd
 import matplotlib.pyplot as plt
